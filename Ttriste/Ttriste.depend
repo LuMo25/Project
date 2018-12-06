@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1488484851 source:c:\users\carrefour\desktop\ttriste\tetrimino.cpp
+	<iostream>
+	"tetrimino.h"
+
+1488484658 c:\users\carrefour\desktop\ttriste\tetrimino.h
+
+1488634164 source:c:\users\carrefour\desktop\ttriste\main.cpp
+	<iostream>
+	<conio.h>
+	"Teriminos.h"
+	"Game.h"
+
+1488639526 c:\users\carrefour\desktop\ttriste\include\teriminos.h
+
+1488637239 c:\users\carrefour\desktop\ttriste\include\game.h
+
+1488639072 source:c:\users\carrefour\desktop\ttriste\src\teriminos.cpp
+	<iostream>
+	"Teriminos.h"
+	"Game.h"
+
+1488639511 source:c:\users\carrefour\desktop\ttriste\src\game.cpp
+	<iostream>
+	"Game.h"
+	"Teriminos.h"
+
+1489659321 source:c:\users\lumo25\documents\work\snapchot\ttriste\main.cpp
+	<iostream>
+	<conio.h>
+	"Teriminos.h"
+	"Game.h"
+
+1489664597 c:\users\lumo25\documents\work\snapchot\ttriste\include\teriminos.h
+
+1493205113 c:\users\lumo25\documents\work\snapchot\ttriste\include\game.h
+
+1489664597 source:c:\users\lumo25\documents\work\snapchot\ttriste\src\teriminos.cpp
+	<iostream>
+	"Game.h"
+	"Teriminos.h"
+
+1489666623 source:c:\users\lumo25\documents\work\snapchot\ttriste\src\game.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<future>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Game.h"
+	"Teriminos.h"
+
