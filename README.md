@@ -2,9 +2,9 @@ Some project made for school.
 
 Pudget --> a GTA Lite made in C (I keep the source code for me héhéhé =3) made with 6 friends.
 
-Pantago --> my first project made in coop with Alexis Roumney =D (don't have executable sory =( if you want to test it open pentagoGUI.py and compile it with the IDE you want (you need to have pycharm to lauch it correctly)
+Pantago --> my first project done in coop with Alexis Roumney =D (don't have executable sorry =( if you want to test it open pentagoGUI.py and compile it with the IDE you want (you need to have pycharm to launch it correctly)
 
-turtlewindows --> a project made with 6 friends in python (with pygame) this one have an executable =o
+turtlewindows --> a project made with 6 friends in python (with pygame) this one has an executable =o
 
 Ttriste --> so sad you can't understand the jokes ='O but if you understand it well... T'es triste! héhéhé... Its a Tetris made in c++
 
