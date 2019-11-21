@@ -1,19 +1,17 @@
 Some project made for school.
 
-Pudget --> a GTA Lite made in C (I keep the source code for me héhéhé =3) made with 6 friends.
+Pudget --> a GTA Lite made in C
 
-Pantago --> my first project done in coop with Alexis Roumney =D (don't have executable sorry =( if you want to test it open pentagoGUI.py and compile it with the IDE you want (you need to have pycharm to launch it correctly)
+Pantago --> my first project done in python (pentagoGUI.py is the main file)
 
-turtlewindows --> a project made with 6 friends in python (with pygame) this one has an executable =o
+turtlewindows --> a project made in py
 
-Ttriste --> so sad you can't understand the jokes ='O but if you understand it well... T'es triste! héhéhé... Its a Tetris made in c++
+Ttriste --> Its a Tetris made in c++
 
-BlorfMarket --> WeLlCoMe To BloRf MarKet! It's just a web side that work with an api.
+BlorfMarket --> It's a prototype of web side working with an api.
 
-BlorfMediaPlayer --> a media pleyer made in java
+BlorfMediaPlayer --> a media pleyer made with java
 
-ADS --> a little project made in python the objective was to make some specific type of algorithme (it burned my braind)
+ADS --> a little project made in python the objective was to make some specific type of algorithme
 
-Crypto --> Just a little mallw... programe that will crypte all your file, I mean decrypte things héhé (totally safe)
-
-Blorfmon --So sad I delete it, I loved this one =( that was a pokemon made in comande line it wasn't finish but I loved my looping responsive progressive system I integret in it! (funny things I still have those music x'D clearly don't fit pokemon universe but who care lol)
+Crypto --> Litte project made in python where the goal was to crypt/decypt words
